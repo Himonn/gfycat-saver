@@ -11,7 +11,7 @@ Head to gfycat, open up browser dev tools, open network tab, refresh page, find 
 
 `pip install requests`
 
-`pip install requests`
+`pip install youtube_dl`
 
 ## Contact
 `Himon#0594` on Discord
